@@ -1,7 +1,7 @@
 # Site settings
 title: Guan Ho(pikachu987) Blog
 description: Hello Guanho Kim World
-keywords: pikachu987
-author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+keywords: pikachu987, guanho, swift, spring, javascript
+author: pikachu987
+baseurl: "https://pikachu987.github.io/" # the subpath of your site, e.g. /blog/
+url: "https://pikachu987.github.io/" # the base hostname & protocol for your site

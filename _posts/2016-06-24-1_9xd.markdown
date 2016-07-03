@@ -1,0 +1,14 @@
+---
+title:  "9XD 3.5회 밋업"
+subtitle: "90년생 개발자 모임"
+author: "pikachu987"
+avatar: "img/authors/profile.jpeg"
+image: "img/2016_06/2016-06-24_1.jpeg"
+date:   2016-06-24 19:00:00
+---
+
+### 가나다라
+aaaa
+
+### 마바사자
+bbbb
