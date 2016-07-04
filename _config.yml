@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: GuanHo(pikachu987) Blog
+description: pikachu987 daily blog
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://pikachu987.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,8 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: pikachu987
+   facebook: gaunho.kim?ref=bookmarks
+   email: pikachu987@naver.com
 
 google_analytics: "UA-58263416-1"
