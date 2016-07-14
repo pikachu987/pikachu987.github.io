@@ -6,9 +6,7 @@ image: "2016_07/2016-07-14_1.jpeg"
 
 ---
 
-<img src="../../assets/img/2016_07/2016-07-14_2.jpeg" style="width: 90%;">
-<br><br>
-### 유명하신 갓분들 ㄷㄷ
+![유명하신 갓분들 ㄷㄷ](../../assets/img/2016_07/2016-07-14_2.jpeg)
 <br><br>
 <img src="../../assets/img/2016_07/2016-07-14_3.jpeg" style="width: 90%;">
 <br><br>
