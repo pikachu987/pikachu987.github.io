@@ -14,7 +14,7 @@ title: About GuanHo
 			<a href="http://spring.io/">Spring</a>/
 			<a href="http://www.oracle.com/technetwork/java/javaee/overview/index.html">java</a>/
 			<a href="http://www.oracle.com/technetwork/java/javaee/jsp/index.html">jsp</a></li>
-		<li><a href="http://www.w3schools.com/html/default.asp">Html</a>/<a href="http://www.w3schools.com/js/">javaScript</a>/<a href="http://www.w3schools.com/css/">css</a></li>
+		<li><a href="https://www.w3.org/standards/webdesign/htmlcss.html">Html</a>/<a href="https://www.w3.org/standards/webdesign/script">javaScript</a>/<a href="https://www.w3.org/standards/webdesign/htmlcss.html">css</a></li>
 		<li><a href="https://jquery.com/">jQuery</a>/<a href="http://lesscss.org/">less</a>/<a href="http://getbootstrap.com/">Bootstrap</a></li>
 		<li><a href="https://developer.apple.com/swift/">swift</a></li>
   </ul>
@@ -33,9 +33,9 @@ title: About GuanHo
     */
     (function() {  // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
-        
+
         s.src = '//pikachu987blog.disqus.com/embed.js';
-        
+
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
