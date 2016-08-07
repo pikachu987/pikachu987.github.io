@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "GDG Korea 2016년 7월 정기 모임"
+date:   2016-07-17 19:00:00
+image: "2016_07/2016-07-27_7.jpeg"
+
+---
+
+![image](../../assets/img/2016_07/2016-07-27_1.jpeg)
+- 조은님의 Html5/Css3 애니메이션 강의
+![image](../../assets/img/2016_07/2016-07-27_2.jpeg)
+- 조은님 배지어곡선
+![image](../../assets/img/2016_07/2016-07-27_3.jpeg)
+- 도창욱님의 서비스워커 강의
+![image](../../assets/img/2016_07/2016-07-27_4.jpeg)
+- 도창욱님의 서비스워커 강의
+![image](../../assets/img/2016_07/2016-07-27_5.jpeg)
+- 도창욱님의 서비스워커 강의
+![image](../../assets/img/2016_07/2016-07-27_6.jpeg)
+- 네트워킹!
+
+### 구글
+수요일 회사 퇴근 후 바로 서울특별시 강남구 역삼동 테헤란로 152 강남파이낸스센터(GFC) 21층 `구글코리아` 마당 회의실로 갔다. 하루전에 위치가 바꼇지만 여러가지 수단을 통해서 바뀐 위치를 보내주셧다.
+피자도 많이 주시고 여기서 슬랙의 멤버이신 chann님을 뵈었고 유림님과 재훈님을 뵈었다.
+그리고 html5/css3애니메이션에 대해서 한층 쉽게 접근할수 있게 되었고 서비스 워커란 기술에 대해 긍정적인 생각으로 바뀌게 되었다.
+
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+
+        s.src = '//pikachu987blog.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//pikachu987blog.disqus.com/count.js" async></script>

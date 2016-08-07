@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "9xd 4회 밋업"
+date:   2016-08-07 13:00:00
+image: "2016_08/2016-08-07_1.jpeg"
+
+---
+
+![image](../../assets/img/2016_08/2016-08-07_1.jpeg)
+![image](../../assets/img/2016_08/2016-08-07_2.jpeg)
+![image](../../assets/img/2016_08/2016-08-07_3.jpeg)
+
+### 항상 옳은 9xd 모임
+몇 번 가다 보니 갈때마다 뵜던 분들을 많이 뵙게 되고 또 많은 분들을 알게 된 거 같다.
+
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+
+        s.src = '//pikachu987blog.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//pikachu987blog.disqus.com/count.js" async></script>
