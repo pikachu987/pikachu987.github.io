@@ -1,4 +1,4 @@
-title: println("Hello pikachu987 World");
+title: Hello pikachu987 World
 description: pikachu987 daily blog
 
 url: http://pikachu987.github.io/
@@ -12,10 +12,10 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
+ - title: Blog
    url: /index.html
- - title: About
-   url: /about
+ - title: Technology
+   url: /technology
  - title: Contact
    url: /contact
 

@@ -1,56 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>println(&quot;Hello pikachu987 World&quot;);</title>
+    <title>Hello pikachu987 World</title>
     <description>pikachu987 daily blog</description>
     <link>http://pikachu987.github.io//</link>
     <atom:link href="http://pikachu987.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Jul 2016 00:11:15 +0900</pubDate>
-    <lastBuildDate>Fri, 15 Jul 2016 00:11:15 +0900</lastBuildDate>
+    <pubDate>Sun, 28 Aug 2016 22:23:02 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Aug 2016 22:23:02 +0900</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       
       <item>
-        <title>구글리크루팅 데이</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_2.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###유명하신 갓분들 ㄷㄷ
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_3.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###드라마&amp;amp;컴퍼니
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_4.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###리멤버
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_5.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###버드뷰(화해)
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_6.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###하이퍼커넥트에서 받은 티
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_7.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###구글에서 당첨!!!!
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_8.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###스티커+.+
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_9.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###스티커+.+
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_10.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###스티커를 받았으면 바로 노트북에 적용!!
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+        <title>9xd 4회 밋업</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../assets/img/2016_08/2016-08-07_1.jpeg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;../../assets/img/2016_08/2016-08-07_2.jpeg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;../../assets/img/2016_08/2016-08-07_3.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;###구글
-회사 퇴근후 바로 삼성역으로 가서 참석을 했다. 도착한 다음 강산님과 같이 움직였다.
+&lt;h3 id=&quot;xd-&quot;&gt;항상 옳은 9xd 모임&lt;/h3&gt;
+&lt;p&gt;몇 번 가다 보니 갈때마다 뵜던 분들을 많이 뵙게 되고 또 많은 분들을 알게 된 거 같다.&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+    };
+    */
+    (function() {  // DON&#39;T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement(&#39;script&#39;);
+
+        s.src = &#39;//pikachu987blog.disqus.com/embed.js&#39;;
+
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot; rel=&quot;nofollow&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//pikachu987blog.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;
+
+</description>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;../../assets/img/2016_08/2016-08-07_1.jpeg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;../../assets/img/2016_08/2016-08-07_2.jpeg&quot; alt=&quot;image&quot; /&gt;
+&lt;img src=&quot;../../assets/img/2016_08/2016-08-07_3.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 07 Aug 2016 22:00:00 +0900</pubDate>
+        <link>http://pikachu987.github.io//blog/post0008/</link>
+        <guid isPermaLink="true">http://pikachu987.github.io//blog/post0008/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>GDG Korea 2016년 7월 정기 모임</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_1.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 조은님의 Html5/Css3 애니메이션 강의
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_2.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 조은님 배지어곡선
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_3.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 도창욱님의 서비스워커 강의
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_4.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 도창욱님의 서비스워커 강의
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_5.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 도창욱님의 서비스워커 강의
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_6.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 네트워킹!&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;구글&lt;/h3&gt;
+&lt;p&gt;수요일 회사 퇴근 후 바로 서울특별시 강남구 역삼동 테헤란로 152 강남파이낸스센터(GFC) 21층 &lt;code class=&quot;highlighter-rouge&quot;&gt;구글코리아&lt;/code&gt; 마당 회의실로 갔다. 하루전에 위치가 바꼇지만 여러가지 수단을 통해서 바뀐 위치를 보내주셧다.
+피자도 많이 주시고 여기서 슬랙의 멤버이신 chann님을 뵈었고 유림님과 재훈님을 뵈었다.
+그리고 html5/css3애니메이션에 대해서 한층 쉽게 접근할수 있게 되었고 서비스 워커란 기술에 대해 긍정적인 생각으로 바뀌게 되었다.&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&#39;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable
+    };
+    */
+    (function() {  // DON&#39;T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement(&#39;script&#39;);
+
+        s.src = &#39;//pikachu987blog.disqus.com/embed.js&#39;;
+
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot; rel=&quot;nofollow&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script id=&quot;dsq-count-scr&quot; src=&quot;//pikachu987blog.disqus.com/count.js&quot; async=&quot;&quot;&gt;&lt;/script&gt;
+
+</description>
+        
+          <description>&lt;p&gt;&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_1.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 조은님의 Html5/Css3 애니메이션 강의
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_2.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 조은님 배지어곡선
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_3.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 도창욱님의 서비스워커 강의
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_4.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 도창욱님의 서비스워커 강의
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_5.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 도창욱님의 서비스워커 강의
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-27_6.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 네트워킹!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 18 Jul 2016 04:00:00 +0900</pubDate>
+        <link>http://pikachu987.github.io//blog/post0007/</link>
+        <guid isPermaLink="true">http://pikachu987.github.io//blog/post0007/</guid>
+        
+        
+      </item>
+      
+    
+      
+      <item>
+        <title>구글리크루팅 데이</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_2.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 유명하신 갓분들 ㄷㄷ
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_3.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 드라마&amp;amp;컴퍼니
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_4.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 리멤버
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_5.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 버드뷰(화해)
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_6.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 하이퍼커넥트에서 받은 티
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_7.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 구글에서 당첨!!!!
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_8.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 스티커+.+
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_9.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 스티커+.+
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_10.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 스티커를 받았으면 바로 노트북에 적용!!&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;구글&lt;/h3&gt;
+&lt;p&gt;회사 퇴근후 바로 삼성역으로 가서 참석을 했다. 도착한 다음 강산님과 같이 움직였다.
 여러 대표,CTO등을 만날수 있어서 좋은 기회였다. 이승민님과 인사도 하였고 추은선님과 우연히 마주쳐서 리크루팅데이가 주는 피자와 맥주르 같이 마셧다.
 개발자의 커리어에 대해서나 회사에서 원하는 개발자의 능력, 생각 들을 알 수 있어서 좋은 기회가 된 것 같다.
 사진을 많이 찍었으니까 글은 이정도로 줄여야지…&lt;/p&gt;
@@ -83,42 +189,24 @@
 
 </description>
         
-          <description>&lt;p&gt;&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_2.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###유명하신 갓분들 ㄷㄷ
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_3.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###드라마&amp;amp;컴퍼니
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_4.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###리멤버
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_5.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###버드뷰(화해)
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_6.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###하이퍼커넥트에서 받은 티
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_7.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###구글에서 당첨!!!!
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_8.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###스티커+.+
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_9.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###스티커+.+
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_10.jpeg&quot; style=&quot;width: 90%;&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-###스티커를 받았으면 바로 노트북에 적용!!
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_2.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 유명하신 갓분들 ㄷㄷ
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_3.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 드라마&amp;amp;컴퍼니
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_4.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 리멤버
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_5.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 버드뷰(화해)
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_6.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 하이퍼커넥트에서 받은 티
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_7.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 구글에서 당첨!!!!
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_8.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 스티커+.+
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_9.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 스티커+.+
+&lt;img src=&quot;../../assets/img/2016_07/2016-07-14_10.jpeg&quot; alt=&quot;image&quot; /&gt;
+- 스티커를 받았으면 바로 노트북에 적용!!&lt;/p&gt;
 
 </description>
         
