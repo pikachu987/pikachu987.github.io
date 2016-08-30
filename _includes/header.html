@@ -3,11 +3,9 @@
          <h1 class="logo" style="font-size: 1.8em; letter-spacing: 1px; line-height: 1.8em; font-weight: 600; text-transform:none;"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
          <nav class="nav-collapse">
              <ul class="noList">
-                 {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
-                 <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-                     <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
-                 </li>
-                 {% endfor %}
+                 <li class="element first"> <a href="/index.html">Blog</a> </li>
+                 <li> <a href="https://pikachu987.github.io/tec/">Technology</a></li>
+                 <li class="element last"> <a href="/contact">Contact</a> </li>
                  <li> <a href="https://pikachu987.github.io/cv/" target="_blank">Career</a></li>
                  <li> <a href="https://github.com/pikachu987" target="_blank">GitHub</a></li>
              </ul>
