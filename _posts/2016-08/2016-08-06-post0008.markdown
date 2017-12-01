@@ -6,11 +6,17 @@ image: "2016_08/2016-08-07_1.jpeg"
 
 ---
 
-![image](../../assets/img/2016_08/2016-08-07_1.jpeg)
-![image](../../assets/img/2016_08/2016-08-07_2.jpeg)
-![image](../../assets/img/2016_08/2016-08-07_3.jpeg)
-
 ### 재미있고 즐거운 9xd 모임
+
+![image](../../assets/img/2016_08/2016-08-07_1.jpeg)
+
+<br>
+
+![image](../../assets/img/2016_08/2016-08-07_2.jpeg)
+
+<br>
+
+![image](../../assets/img/2016_08/2016-08-07_3.jpeg)
 
 <br><br>
 <div id="disqus_thread"></div>

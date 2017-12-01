@@ -6,20 +6,29 @@ image: "2016_07/2016-07-27_7.jpeg"
 
 ---
 
-![image](../../assets/img/2016_07/2016-07-27_1.jpeg)
-- 조은님의 Html5/Css3 애니메이션 강의
-![image](../../assets/img/2016_07/2016-07-27_2.jpeg)
-- 조은님 배지어곡선
-![image](../../assets/img/2016_07/2016-07-27_3.jpeg)
-- 도창욱님의 서비스워커 강의
-![image](../../assets/img/2016_07/2016-07-27_4.jpeg)
-- 도창욱님의 서비스워커 강의
-![image](../../assets/img/2016_07/2016-07-27_5.jpeg)
-- 도창욱님의 서비스워커 강의
-![image](../../assets/img/2016_07/2016-07-27_6.jpeg)
-- 네트워킹!
-
 ### 구글
+
+![image](../../assets/img/2016_07/2016-07-27_1.jpeg)
+
+<br>
+
+![image](../../assets/img/2016_07/2016-07-27_2.jpeg)
+
+<br>
+
+![image](../../assets/img/2016_07/2016-07-27_3.jpeg)
+
+<br>
+
+![image](../../assets/img/2016_07/2016-07-27_4.jpeg)
+
+<br>
+
+![image](../../assets/img/2016_07/2016-07-27_5.jpeg)
+
+<br>
+
+![image](../../assets/img/2016_07/2016-07-27_6.jpeg)
 
 <br><br>
 <div id="disqus_thread"></div>

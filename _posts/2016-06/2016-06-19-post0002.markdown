@@ -6,10 +6,9 @@ image: "2016_06/2016-06-19_1.jpeg"
 
 ---
 
-<img src="../../assets/img/2016_06/2016-06-19_2.jpeg" style="width: 90%;">
-
-
 ### Google Extexded I/O
+
+<img src="../../assets/img/2016_06/2016-06-19_2.jpeg" style="width: 90%;">
 
 <br><br>
 <div id="disqus_thread"></div>

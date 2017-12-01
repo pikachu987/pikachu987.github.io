@@ -6,10 +6,13 @@ image: "2016_07/2016-07-09_1.jpeg"
 
 ---
 
-<img src="../../assets/img/2016_07/2016-07-09_2.jpeg" style="width: 90%;">
-<img src="../../assets/img/2016_07/2016-07-09_3.jpeg" style="width: 90%;">
-
 ### 개발자분들과 만남
+
+<img src="../../assets/img/2016_07/2016-07-09_2.jpeg" style="width: 90%;">
+
+<br>
+
+<img src="../../assets/img/2016_07/2016-07-09_3.jpeg" style="width: 90%;">
 
 <br><br>
 <div id="disqus_thread"></div>
