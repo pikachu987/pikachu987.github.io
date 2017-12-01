@@ -7,39 +7,50 @@ image: "2016_07/2016-07-14_1.jpeg"
 ---
 
 ![image](../../assets/img/2016_07/2016-07-14_2.jpeg)
-- 고수 분들
+
+<br>
+
 ![image](../../assets/img/2016_07/2016-07-14_3.jpeg)
-- 드라마&컴퍼니
+
+<br>
+
 ![image](../../assets/img/2016_07/2016-07-14_4.jpeg)
-- 리멤버
+
+<br>
+
 ![image](../../assets/img/2016_07/2016-07-14_5.jpeg)
-- 버드뷰(화해)
+
+<br>
+
 ![image](../../assets/img/2016_07/2016-07-14_6.jpeg)
-- 하이퍼커넥트에서 받은 티
+
+<br>
+
 ![image](../../assets/img/2016_07/2016-07-14_7.jpeg)
-- 구글에서 당첨!
+
+<br>
+
 ![image](../../assets/img/2016_07/2016-07-14_8.jpeg)
-- 스티커 +.+
+
+<br>
+
 ![image](../../assets/img/2016_07/2016-07-14_9.jpeg)
-- 스티커 +.+
+
+<br>
+
 ![image](../../assets/img/2016_07/2016-07-14_10.jpeg)
-- 스티커를 받았으면 바로 노트북에 적용!
+
+<br>
 
 ### 구글
 
 <br><br>
 <div id="disqus_thread"></div>
 <script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
     var disqus_config = function () {
         this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
         this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
-    */
     (function() {  // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
 
