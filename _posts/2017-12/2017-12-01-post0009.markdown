@@ -6,9 +6,7 @@ image: "2017_12/AppIcon.png"
 
 ---
 
-### Script
-
-#### [앱 다운받기](https://itunes.apple.com/app/id1319037733?mt=8)
+### [앱 다운받기](https://itunes.apple.com/app/id1319037733?mt=8)
 
 ![](https://raw.githubusercontent.com/pikachu987/pikachu987.github.io/master/assets/img/2017-12/AppIcon.png =250x)
 
@@ -16,13 +14,6 @@ image: "2017_12/AppIcon.png"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AKUuQkg_pl0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-<br><br><br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FxClUjhtA1A" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-<br><br><br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PpEil6CXwjw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <br><br><br>
 
