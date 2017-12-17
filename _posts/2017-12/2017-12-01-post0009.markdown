@@ -8,7 +8,7 @@ image: "2017_12/AppIcon.png"
 
 ### [앱 다운받기](https://itunes.apple.com/app/id1319037733?mt=8)
 
-![](https://raw.githubusercontent.com/pikachu987/pikachu987.github.io/master/assets/img/2017-12/AppIcon.png =250x)
+<a href="https://itunes.apple.com/app/id1319037733?mt=8"><img src="https://raw.githubusercontent.com/pikachu987/pikachu987.github.io/master/assets/img/2017-12/AppIcon.png" alt="image" style="width: 200px;"/></a>
 
 <br>
 
