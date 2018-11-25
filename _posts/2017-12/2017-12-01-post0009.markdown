@@ -1,13 +1,23 @@
 ---
 layout: post
-title:  "Script"
+title:  "Script 대본 공부앱"
 date:   2017-12-01 13:00:00
 image: "2017_12/favicon.png"
 
 ---
 <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/pikachu987/pikachu987.github.io/master/assets/img/2017-12/favicon.ico" />
 
+- 나에게 맞는 앱 디자인을 선택할 수 있습니다.
+- 중요 문장을 추가할수 있습니다.
+- 대본, 중요 문장에서 검색을 할수 있습니다.
+- 대본, 중요 문장을 번역할 수 있습니다.
+- 중요 문장에 태그를 선택할수 있습니다.
+- 대본에 따라 자신이 마지막 공부한 위치로 돌아갈 수 있습니다.
+- 대본과 중요문장을 저장할수 있습니다. 데이터는 서버에 저장되지 않고 휴대폰 기기에 저장되기 때문에 다른 사람들에게 노출되지 않고 다시 불러올 수 있습니다.
+
+
 <a href="https://itunes.apple.com/app/id1319037733?mt=8"><img src="https://raw.githubusercontent.com/pikachu987/pikachu987.github.io/master/assets/img/2017-12/favicon.png" alt="image" style="width: 100px; height: 100px;"/></a>
+
 ### [앱 다운받기](https://itunes.apple.com/app/id1319037733?mt=8)
 
 <br>
@@ -18,30 +28,3 @@ image: "2017_12/favicon.png"
 <br><br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H7UYKORAN2M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-
-<br><br>
-<div id="disqus_thread"></div>
-<script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-
-        s.src = '//pikachu987blog.disqus.com/embed.js';
-
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
-<script id="dsq-count-scr" src="//pikachu987blog.disqus.com/count.js" async></script>

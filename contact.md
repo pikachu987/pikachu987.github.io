@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact GuanHo
+title: Contact GwanHo
 ---
 
 <div id="contact">
