@@ -12,10 +12,10 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Blog
-   url: /index.html
+ # - title: Blog
+ #   url: /index.html
  - title: Contact
-   url: /contact
+   url: /index.html
 
 social:
    github: pikachu987

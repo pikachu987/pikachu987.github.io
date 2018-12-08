@@ -3,7 +3,14 @@ layout: default
 title: pikachu987 Blog
 ---
 
-<div class="home" id="home">
+<div id="contact">
+  <h1 class="pageTitle">Contact Me</h1>
+  <div class="contactContent">
+    <p class="intro">문의하실 사항은 <br><a href="https://www.facebook.com/gaunho.kim?ref=bookmarks">Facebook</a><br><a href="mailto:pikachu77769@gmail.com">Gmail</a><br><a href="tel:01047467704">01047467704</a><br>로 연락주시기 바랍니다.</p>
+  </div>
+</div>
+
+<!-- <div class="home" id="home">
   <h1 class="pageTitle">Posts</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
@@ -19,7 +26,6 @@ title: pikachu987 Blog
       </li>
     {% endfor %}
   </ul>
-  <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a>
@@ -28,4 +34,4 @@ title: pikachu987 Blog
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
     {% endif %}
   </div>
-</div>
+</div> -->
